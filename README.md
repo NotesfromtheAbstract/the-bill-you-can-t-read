@@ -1,7 +1,7 @@
 # The Bill You Can't Read
-### Notes from the Abstract — A. Rupert Crocker
+### Notes from the Abstracts — A. Rupert Crocker
 
-Code and data for the chart accompanying "The Bill You Can't Read," published on *Notes from the Abstract* (andrewrcrocker.substack.com).
+Code and data for the chart accompanying "The Bill You Can't Read," published on *Notes from the Abstracts* (andrewrcrocker.substack.com).
 
 ## Contents
 
@@ -44,4 +44,4 @@ MIT License. Data from CMS is public domain.
 
 ## Citation
 
-Crocker AR. The bill you can't read. *Notes from the Abstract*. 2026.
+Crocker AR. The bill you can't read. *Notes from the Abstracts*. 2026.
