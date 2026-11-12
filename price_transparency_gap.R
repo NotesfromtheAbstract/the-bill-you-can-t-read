@@ -1,6 +1,6 @@
 # ============================================================
 # What Hospitals Bill vs. What Medicare Actually Pays
-# Notes from the Abstract — The Bill You Can't Read
+# Notes from the Abstracts — The Bill You Can't Read
 # A. Rupert Crocker
 # Source: CMS Medicare Inpatient Hospitals by Provider and Service, FY 2023
 # ============================================================
